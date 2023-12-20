@@ -91,11 +91,22 @@ h1 {
     bottom: 1rem;
   }
   .release-date {
-    bottom: 8rem;
-    left: 0;
-    right: 0;
     margin: auto;
     text-align: center;
+    margin-top: 3.5rem;
+    padding: 0;
+    position: relative;
+    font-size: 1rem;
+  }
+  .logo-gta {
+    width: 100%;
+    max-width: 200px;
+    margin-bottom: 16px;
+    transition: all ease 400ms;
+  }
+  .title {
+    font-size: 1.6rem;
+    font-weight: 600;
   }
 }
 
