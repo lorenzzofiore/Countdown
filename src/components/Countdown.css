@@ -42,8 +42,13 @@
 @media screen and (max-width: 768px) {
     .countdown-container {
         display: flex;
-        flex-direction: column;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
         gap: 1rem;
+    }
+    .countdown-item {
+        min-width: none;
     }
     .countdown-value {
         font-size: 20px;
