@@ -12,7 +12,6 @@ function App() {
     <div className="app" style={{ backgroundImage: `url(${backgroundImg})` }}>
       <Router>
         <NavBar />
-
         <div className="pages">
           <Routes>
             <Route path="/" element={<Home />} />
@@ -27,3 +26,5 @@ function App() {
 }
 
 export default App;
+
+
