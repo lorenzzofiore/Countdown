@@ -1,0 +1,101 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-size: 3rem;
+}
+
+.app {
+  height: 100dvh;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  background-position: center;
+  background-size: cover;
+}
+
+.pages {
+  color: #fff;
+  width: 100%;
+  height: auto;
+  text-align: center;
+  font-size: 2rem;
+  margin-top: 8%;
+}
+
+.logo-gta {
+  width: 100%;
+  max-width: 300px;
+  margin-bottom: 16px;
+  transition: all ease 400ms;
+}
+
+.title {
+  font-size: 3rem;
+  font-weight: 600;
+}
+
+.release-date {
+  font-size: 1.4rem;
+  text-align: left;
+  padding-left: 2rem;
+  position: absolute;
+  bottom: 2rem;
+  filter: drop-shadow(0 0 .5em #ffffffaa);
+}
+
+.logo-home {
+  transition: all ease in 400ms;
+}
+.logo-home:hover img{
+  transform: scale(1.1);
+  cursor: pointer;
+}
+
+.new-games {
+  border: 2px solid #fff;
+  filter: drop-shadow(0 0 .5em #ffffffaa);
+  background: transparent;
+  color: #020202;
+  border-radius: 50rem;
+  width: fit-content;
+  padding: 10px 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  right: 2rem;
+  bottom: 2rem;
+  transition: all ease-in 300ms;
+}
+.new-games:hover {
+  background-color: #fff;
+}
+.new-games:hover i {
+  color: #020202;
+}
+
+.new-games i {
+  font-size: 2rem;
+  color: #fff;
+  transition: all ease-in 300ms;
+}
+
+@media screen and (max-width: 960px) {
+  .new-games {
+    margin: auto;
+    left: 0;
+    right: 0;
+    bottom: 1rem;
+  }
+  .release-date {
+    bottom: 8rem;
+    left: 0;
+    right: 0;
+    margin: auto;
+    text-align: center;
+  }
+}
+
