@@ -88,6 +88,9 @@ h1 {
 }
 
 @media screen and (max-width: 960px) {
+  .app {
+    height: 100%;
+  }
   .new-games {
     margin: auto;
     left: 0;

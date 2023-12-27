@@ -9,9 +9,10 @@
     max-width: 250px;
     min-height: 380px;
     margin: 32px auto;
-    padding: 20px;
+    padding: 16px;
     box-shadow: rgba(95, 97, 100, 0.2) 0px 8px 24px;
     text-align: left;
+    display: grid;
 }
 .producto img {
     object-fit: cover;
@@ -25,7 +26,7 @@
 }
 
 .rate {
-    font-size: 1.3rem;
+    font-size: 1.2rem;
     font-weight: bold;
     margin-left: 0;
     padding: 10px 0px;
@@ -36,4 +37,5 @@
     color: #792F5F;
     font-size: .8rem;
     font-weight: bolder;
+    align-self: flex-end;
 }
