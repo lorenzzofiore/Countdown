@@ -1,25 +1,43 @@
 [
     {
+        "image": "images/gta_1.webp",
+        "title": "Grand Theft Auto I",
+        "new_price": 4.5,
+        "free_ship": "October 2001"
+    },
+    {
+        "image": "images/gta_2.webp",
+        "title": "Grand Theft Auto II",
+        "new_price": 4.5,
+        "free_ship": "October 2001"
+    },
+    {
         "image": "images/gta_3.webp",
-        "title": "Grand Theft Auto",
+        "title": "Grand Theft Auto III",
         "new_price": 4.5,
         "free_ship": "October 2001"
     },
     {
         "image": "images/gta_vicecity.webp",
-        "title": "Grand Theft Auto",
+        "title": "Grand Theft Auto Vice City",
         "new_price": 4.5,
         "free_ship": "October 2001"
     },
     {
         "image": "images/gta_sa.webp",
-        "title": "Grand Theft Auto",
+        "title": "Grand Theft Auto San Andreas",
         "new_price": 4.5,
         "free_ship": "October 2001"
     },
     {
         "image": "images/gta_4.webp",
-        "title": "Grand Theft Auto",
+        "title": "Grand Theft Auto IV",
+        "new_price": 4.5,
+        "free_ship": "October 2001"
+    },
+    {
+        "image": "images/gta_5.webp",
+        "title": "Grand Theft Auto V",
         "new_price": 4.5,
         "free_ship": "October 2001"
     }
