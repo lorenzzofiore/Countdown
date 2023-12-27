@@ -1,0 +1,38 @@
+.producto {
+    background: rgba(255, 255, 255, 0.06);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(5.6px);
+    -webkit-backdrop-filter: blur(5.6px);
+    border: 1px solid rgba(255, 255, 255, 0.21);
+    border-radius: 20px;
+    max-width: 250px;
+    margin: 32px auto;
+    padding: 20px;
+    box-shadow: rgba(95, 97, 100, 0.2) 0px 8px 24px;
+    text-align: left;
+}
+.producto img {
+    object-fit: cover;
+    height: 230px;
+    width: 100%;
+    margin: auto;
+}
+.product-title {
+    font-size: 1.5rem;
+    color: var(--white);
+}
+
+.price {
+    font-size: 1.3rem;
+    font-weight: bold;
+    margin-left: 0;
+    padding: 10px 0px;
+    color: var(--white);
+}
+
+.ship {
+    color: rgb(142, 230, 11);
+    font-size: .8rem;
+    font-weight: bolder;
+}

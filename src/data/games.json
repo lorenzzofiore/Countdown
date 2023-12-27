@@ -1,0 +1,27 @@
+[
+    {
+        "image": "images/gta_3.webp",
+        "title": "Grand Theft Auto",
+        "new_price": 4.5,
+        "free_ship": "October 2001"
+    },
+    {
+        "image": "images/gta_vicecity.webp",
+        "title": "Grand Theft Auto",
+        "new_price": 4.5,
+        "free_ship": "October 2001"
+    },
+    {
+        "image": "images/gta_sa.webp",
+        "title": "Grand Theft Auto",
+        "new_price": 4.5,
+        "free_ship": "October 2001"
+    },
+    {
+        "image": "images/gta_4.webp",
+        "title": "Grand Theft Auto",
+        "new_price": 4.5,
+        "free_ship": "October 2001"
+    }
+
+]
