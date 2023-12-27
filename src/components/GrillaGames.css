@@ -3,3 +3,7 @@
     margin: 0 auto; 
     padding: 0 2rem;
 }
+
+.swiper-pagination-bullet {
+    background-color: #792F5F!important;
+}

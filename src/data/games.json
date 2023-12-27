@@ -1,14 +1,14 @@
 [
     {
         "image": "images/gta_1.webp",
-        "title": "Grand Theft Auto I",
-        "new_price": 4.5,
+        "title": "Grand Theft Auto",
+        "new_price": 4,
         "free_ship": "February 1998"
     },
     {
         "image": "images/gta_2.webp",
         "title": "Grand Theft Auto II",
-        "new_price": 4.5,
+        "new_price": 3,
         "free_ship": "October 1999"
     },
     {
@@ -20,13 +20,13 @@
     {
         "image": "images/gta_vicecity.webp",
         "title": "Grand Theft Auto Vice City",
-        "new_price": 4.5,
+        "new_price": 5,
         "free_ship": "October 2002"
     },
     {
         "image": "images/gta_sa.webp",
         "title": "Grand Theft Auto San Andreas",
-        "new_price": 4.5,
+        "new_price": 5,
         "free_ship": "October 2004"
     },
     {
@@ -38,7 +38,7 @@
     {
         "image": "images/gta_5.webp",
         "title": "Grand Theft Auto V",
-        "new_price": 4.5,
+        "new_price": 5,
         "free_ship": "September 2013"
     }
 

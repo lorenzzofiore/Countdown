@@ -24,7 +24,7 @@
     color: var(--white);
 }
 
-.price {
+.rate {
     font-size: 1.3rem;
     font-weight: bold;
     margin-left: 0;
@@ -33,7 +33,7 @@
 }
 
 .ship {
-    color: rgb(142, 230, 11);
+    color: #792F5F;
     font-size: .8rem;
     font-weight: bolder;
 }

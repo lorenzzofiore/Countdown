@@ -25,6 +25,10 @@ h1 {
   margin-top: 8%;
 }
 
+.history h1 {
+  margin-top: -2rem;
+}
+
 .logo-gta {
   width: 100%;
   max-width: 300px;
