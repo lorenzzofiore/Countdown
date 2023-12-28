@@ -5,7 +5,7 @@ export const Home = () => {
   return (
     <div className="home">
       <a className='logo-home' target="_blank" rel="noreferrer" href="https://www.rockstargames.com/videos/666666">
-        <img className='logo-gta' src='logo-gta.png' alt="Grand Theft Auto VI" />
+        <img className='logo-gta' src='logo_gta.png' alt="Grand Theft Auto VI" />
       </a>
       <h1 className="title">RELEASE DATE</h1>
       <CountdownTimer />

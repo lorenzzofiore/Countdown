@@ -21,7 +21,8 @@
     border-radius: 50px;
     padding: 10px 32px;
     width: 70px;
-    font-weight: light;
+    font-size: 1.5rem;
+    font-weight: 500;
     transition: all 500ms;
 }
 
