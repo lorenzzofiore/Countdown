@@ -23,6 +23,9 @@
     width: 100%;
     margin: auto;
 }
+.product:last-child img {
+    height: 200px;
+}
 .product-title {
     font-size: 1.5rem;
     color: var(--white);

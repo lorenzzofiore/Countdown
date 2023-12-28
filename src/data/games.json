@@ -40,6 +40,12 @@
         "title": "Grand Theft Auto V",
         "rate": 5,
         "release_date": "September 2013"
+    },
+    {
+        "image": "images/gta_6.png",
+        "title": "Grand Theft Auto VI",
+        "rate": 5,
+        "release_date": "Coming 2025"
     }
 
 ]
