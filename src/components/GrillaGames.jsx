@@ -41,8 +41,8 @@ export default function GrillaProductos() {
                 <Game
                     image={game.image}
                     title={game.title}
-                    new_price={game.new_price}
-                    free_ship={game.free_ship}
+                    rate={game.rate}
+                    release_date={game.release_date}
                 />
             </SwiperSlide>
             ))}

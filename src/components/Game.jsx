@@ -1,14 +1,14 @@
 import "./Game.css";
 
-export default function Producto ({image, title, new_price, free_ship}) {
+export default function Producto ({image, title, rate, release_date}) {
 
 
     return (
         <div className="producto">
             <img src={image} alt="" />
             <h3 className="product-title">{title}</h3>
-            <p className="rate"><i class="bi bi-star-fill"></i> {new_price}</p>
-            <span className="ship">{free_ship}</span>
+            <p className="rate"><i class="bi bi-star-fill"></i> {rate}</p>
+            <span className="ship">{release_date}</span>
         </div>
     )
 }

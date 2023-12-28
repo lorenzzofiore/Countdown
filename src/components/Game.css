@@ -31,6 +31,7 @@
     margin-left: 0;
     padding: 10px 0px;
     color: var(--white);
+    align-self: flex-end;
 }
 
 .ship {
