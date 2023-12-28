@@ -14,6 +14,9 @@
     text-align: left;
     display: grid;
 }
+.producto:hover {
+    cursor:grab;
+}
 .producto img {
     object-fit: cover;
     height: 230px;

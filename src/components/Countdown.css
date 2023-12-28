@@ -48,7 +48,7 @@
         gap: 1rem;
     }
     .countdown-item {
-        min-width: none;
+        min-width: auto;
     }
     .countdown-value {
         font-size: 20px;
