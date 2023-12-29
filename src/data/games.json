@@ -1,47 +1,55 @@
 [
     {
+        "console": "images/ps5-logo.svg",
         "image": "images/gta_1.webp",
         "title": "Grand Theft Auto",
         "rate": 4,
         "release_date": "February 1998"
     },
     {
+        "console": "images/ps5-logo.svg",
         "image": "images/gta_2.webp",
         "title": "Grand Theft Auto II",
         "rate": 3,
         "release_date": "October 1999"
     },
     {
+        "console": "images/ps5-logo.svg",
         "image": "images/gta_3.webp",
         "title": "Grand Theft Auto III",
         "rate": 4.5,
         "release_date": "October 2001"
     },
     {
+        "console": "images/ps5-logo.svg",
         "image": "images/gta_vicecity.webp",
         "title": "Grand Theft Auto Vice City",
         "rate": 5,
         "release_date": "October 2002"
     },
     {
+        "console": "images/ps5-logo.svg",
         "image": "images/gta_sa.webp",
         "title": "Grand Theft Auto San Andreas",
         "rate": 5,
         "release_date": "October 2004"
     },
     {
+        "console": "images/ps5-logo.svg",
         "image": "images/gta_4.webp",
         "title": "Grand Theft Auto IV",
         "rate": 4.5,
         "release_date": "April 2008"
     },
     {
+        "console": "images/ps5-logo.svg",
         "image": "images/gta_5.webp",
         "title": "Grand Theft Auto V",
         "rate": 5,
         "release_date": "September 2013"
     },
     {
+        "console": "images/ps5-logo.svg",
         "image": "images/gta_6.png",
         "title": "Grand Theft Auto VI",
         "rate": 5,

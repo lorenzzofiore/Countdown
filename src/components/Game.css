@@ -17,13 +17,13 @@
 .producto:hover {
     cursor:grab;
 }
-.producto img {
+.producto img.cover-art {
     object-fit: cover;
     height: 230px;
     width: 100%;
     margin: auto;
 }
-.product:last-child img {
+.product:last-child img.cover-art {
     height: 200px;
 }
 .product-title {
@@ -45,6 +45,10 @@
     font-size: .8rem;
     font-weight: bolder;
     align-self: flex-end;
+}
+
+.console-img {
+    max-width: 80px;
 }
 
 @media screen and (max-width: 960px) {

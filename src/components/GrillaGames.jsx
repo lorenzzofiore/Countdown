@@ -54,6 +54,7 @@ export default function GrillaProductos() {
                 <Game
                     image={game.image}
                     title={game.title}
+                    console={game.console}
                     rate={game.rate}
                     release_date={game.release_date}
                 />
