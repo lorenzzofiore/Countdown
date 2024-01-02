@@ -41,8 +41,7 @@ function NavBar() {
             <li className="nav-item">
               <NavLink
                 exact
-                to="https://www.instagram.com/uilorenzzo/?hl=es-la"
-                target="_blank"
+                to="/blog"
                 activeClassName="active"
                 className="nav-links"
                 onClick={handleClick}
