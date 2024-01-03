@@ -9,7 +9,47 @@ export const Blog = () => {
           Check out all the news about Grand Theft Auto
         </p>
       </header>
-      <img className="img-blog" src="/images/gta-online-2.png" alt="grand theft auto V Online" />
+      <section className="grid-post">
+        <article className="card-post">
+          <header>
+            <img className="img-blog" src="/images/gta-online-2.png" alt="grand theft auto V Online" />
+          </header>
+          <footer>
+            <h3>
+              Title Post
+            </h3>
+            <p>
+              Post paragraph
+            </p>
+          </footer>
+        </article>
+        <article className="card-post">
+          <header>
+            <img className="img-blog" src="/images/gta-online-2.png" alt="grand theft auto V Online" />
+          </header>
+          <footer>
+            <h3>
+              Title Post
+            </h3>
+            <p>
+              Post paragraph
+            </p>
+          </footer>
+        </article>
+        <article className="card-post">
+          <header>
+            <img className="img-blog" src="/images/gta-online-2.png" alt="grand theft auto V Online" />
+          </header>
+          <footer>
+            <h3>
+              Title Post
+            </h3>
+            <p>
+              Post paragraph
+            </p>
+          </footer>
+        </article>
+      </section>
     </div>
   );
 };
