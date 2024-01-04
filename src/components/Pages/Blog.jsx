@@ -11,6 +11,7 @@ export const Blog = () => {
         </p>
       </header>
       <GrillaPost/>
+      
     </div>
   );
 };

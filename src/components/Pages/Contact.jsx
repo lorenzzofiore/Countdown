@@ -1,9 +1,12 @@
 import React from "react";
+import FormContact from "../FormContact";
 
 export const Contact = () => {
   return (
-    <div>
+    <>
       <h1>Contact Us</h1>
-    </div>
+      <p>If you have any questions, or comments you want to make, write to us</p>
+      <FormContact/>
+    </>
   );
 };

@@ -1,0 +1,58 @@
+.contact-main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.form {
+    padding-top: 2rem;
+    width: 100%;
+    max-width: 32rem;
+    margin: auto;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: column;
+    /* gap: .4rem; */
+}
+.form label {
+    opacity: 0;
+}
+.form input::placeholder {
+    color: #fff;
+    padding-left: .6rem;
+}
+.form textarea::placeholder {
+    color: #fff;
+    padding-left: .6rem;
+    padding-top: .5rem;
+}
+.form input:not(:placeholder-shown) {
+    color: #792F5F;
+    padding-left: .6rem;
+}
+.form textarea:not(:placeholder-shown) {
+    color: #792F5F;
+    padding-left: .6rem;
+    padding-top: .5rem;
+}
+.form input,
+.form textarea {
+    width: 100%;
+    background: rgba(255, 255, 255, 0.06);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(5.6px);
+    -webkit-backdrop-filter: blur(5.6px);
+    border: 1px solid rgba(255, 255, 255, 0.21);
+    border-radius: .3rem;
+    box-shadow: rgba(95, 97, 100, 0.2) 0px 8px 24px;
+    min-height: 30px;
+}
+.form textarea {
+    height: 4rem;
+}
+.form input.submit-btn {
+    margin-top: 1rem;
+    background-color: #fff;
+}

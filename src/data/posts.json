@@ -13,6 +13,21 @@
         "image": "images/post-image-3.webp",
         "title": "The Chop Shop",
         "type": "Negocios"
+    },
+    {
+        "image": "images/post-image-4.webp",
+        "title": "Smuggler's Run",
+        "type": "Negocios"
+    },
+    {
+        "image": "images/post-image-5.webp",
+        "title": "Import/Export",
+        "type": "Negocios"
+    },
+    {
+        "image": "images/post-image-6.webp",
+        "title": "After Hours",
+        "type": "Negocios"
     }
 
 ]
