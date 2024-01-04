@@ -1,0 +1,24 @@
+.card-post {
+    border-radius: 1rem;
+    background: rgba(255, 255, 255, 0.06);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(5.6px);
+    -webkit-backdrop-filter: blur(5.6px);
+    border: 1px solid rgba(255, 255, 255, 0.21);
+    border-radius: 20px;
+    margin: 32px auto;
+    box-shadow: rgba(95, 97, 100, 0.2) 0px 8px 24px;
+    text-align: left;
+    display: grid;
+} 
+.img-blog{
+    width: 100%;
+    max-width: 420px;
+    height: auto;
+    border-top-right-radius: 1rem;
+    border-top-left-radius: 1rem;
+}
+.card-post footer {
+    padding: 1rem;
+}

@@ -1,0 +1,18 @@
+[
+    {
+        "image": "images/post-image-1.webp",
+        "title": "The Contract",
+        "type": "Negocios"
+    },
+    {
+        "image": "images/post-image-2.webp",
+        "title": "Los Santos Drug Wars",
+        "type": "Negocios"
+    },
+    {
+        "image": "images/post-image-3.webp",
+        "title": "The Chop Shop",
+        "type": "Negocios"
+    }
+
+]

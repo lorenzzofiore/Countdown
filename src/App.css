@@ -104,40 +104,6 @@ h1 {
 #page-blog h1 {
   margin-bottom: 1rem;
 }
-#page-blog .img-blog{
-  max-width: 100%;
-  height: auto;
-}
-#page-blog .grid-post {
-  display: flex;
-  align-items: flex-start;
-  justify-content: flex-start;
-  padding-left: 4rem;
-  padding-right: 4rem;
-  gap: 1rem;
-}
-
-#page-blog .grid-post article {
-  display: flex;
-  flex-grow: 1;
-  flex-direction: column;
-  border-radius: 1rem;
-  background: rgba(255, 255, 255, 0.06);
-  border-radius: 16px;
-  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
-  backdrop-filter: blur(5.6px);
-  -webkit-backdrop-filter: blur(5.6px);
-  border: 1px solid rgba(255, 255, 255, 0.21);
-  border-radius: 20px;
-  margin: 32px auto;
-  box-shadow: rgba(95, 97, 100, 0.2) 0px 8px 24px;
-  text-align: left;
-  display: grid;
-} 
-
-#page-blog .grid-post article footer {
-  padding: 1rem;
-}
 
 @media screen and (max-width: 960px) {
   h1 {
