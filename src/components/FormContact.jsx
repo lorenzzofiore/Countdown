@@ -10,7 +10,7 @@ export default function FormContact () {
                 <textarea name='comentarios'></textarea>
             </form>
 
-            <form method="post" className="form">
+            <form method="post" className="form" netlify>
                 <label>
                     Name:
                 </label>
