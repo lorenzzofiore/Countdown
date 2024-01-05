@@ -28,12 +28,16 @@
     padding-top: .5rem;
 }
 .form input:not(:placeholder-shown) {
-    color: #792F5F;
+    color: #020202;
+    background-color: #fff;
     padding-left: .6rem;
+    padding-right:-.6rem;
 }
 .form textarea:not(:placeholder-shown) {
-    color: #792F5F;
+    color: #020202;
+    background-color: #fff;
     padding-left: .6rem;
+    padding-right:-.6rem;
     padding-top: .5rem;
 }
 .form input,
