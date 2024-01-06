@@ -5,7 +5,7 @@ export default function FormContact() {
   return (
     <main className="contact-main">
       {/* Formulario oculto de Netlify */}
-      <form name="contacto" hidden data-netlify="true" netlify-honeypot="bot-field">
+      <form name="contact" hidden data-netlify="true" netlify-honeypot="bot-field">
         <input type="text" name="nombre" />
         <input type="email" name="email" />
         <textarea name="comentarios"></textarea>
@@ -26,7 +26,7 @@ export default function FormContact() {
         </label>
         <textarea name="comentarios" placeholder="Leave your comments here"></textarea>
         {/* Conectamos al formulario invisible */}
-        <input type="hidden" name="form-name" value="contacto" />
+        <input type="hidden" name="form-name" value="contact" />
         <input type="submit" value="Enviar" className="submit-btn" />
       </form>
     </main>
