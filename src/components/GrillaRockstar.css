@@ -1,0 +1,50 @@
+.grilla-rockstar {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    gap: 1rem;
+    padding-top: 2rem;
+}
+
+.grilla-rockstar article {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.grilla-rockstar article img {
+    max-width: 100%;
+}
+
+.btn-view {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2rem;
+}
+.btn-view a {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    font-weight: 600;
+    border-bottom: 3px solid #f2a008;
+    transition: all ease 300ms;
+    padding: 2px 16px;
+}
+.btn-view a:hover {
+    background-color: #fff;
+    color: #f2a008;
+    padding: 8px 16px;
+}
+
+@media (max-width:768px) {
+    .grilla-rockstar {
+        flex-wrap: wrap;
+    }
+    .grilla-rockstar img {
+        min-width: 300px;
+    }
+}

@@ -5,15 +5,11 @@ export default function FormContact() {
   return (
     <main className="contact-main">
       {/* Formulario oculto de Netlify */}
-      <form name="contact" hidden data-netlify="true" data-netlify-honeypot="bot-field">
+      <form name="contact" hidden data-netlify="true" netlify-honeypot="bot-field">
         <input type="text" name="nombre" />
         <input type="email" name="email" />
         <textarea name="comentarios"></textarea>
-        {/* Campo honeypot */}
-        <input type="hidden" name="bot-field" />
       </form>
-
-      {/* No es necesario el segundo formulario visible */}
 
       {/* Formulario visible */}
       <form method="post" className="form" action="/contact" data-netlify="true">

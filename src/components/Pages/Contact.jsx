@@ -1,12 +1,14 @@
 import React from "react";
-import FormContact from "../FormContact";
+import Reproductor from "../Reproductor"
 
 export const Contact = () => {
   return (
-    <>
-      <h1>Contact Us</h1>
-      <p>If you have any questions, or comments you want to make, write to us</p>
-      <FormContact/>
-    </>
+    <section id="model">
+      <header className="header-model"> 
+        <h1>Now On Mac</h1>
+        <p>Grand Theft Auto VI is now supporting Mac OS</p>
+      </header>
+      <Reproductor className="model-content"/>
+    </section>
   );
 };

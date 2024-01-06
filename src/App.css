@@ -97,13 +97,27 @@ h1 {
 #page-blog {
   text-align: left;
   padding: 0 2rem;
-  padding-bottom: 5rem;
+  padding-bottom: 5rem!important;
 }
 #page-blog .title-page {
   padding-left: 4rem;
 }
 #page-blog h1 {
   margin-bottom: 1rem;
+}
+#rockstar-games {
+  margin-top: 3rem;
+  padding-left: 4rem;
+  padding-right: 4rem;
+}
+#rockstar-games h2 {
+  font-size: 2rem;
+}
+#model {
+  height: auto;
+}
+.header-model {
+  padding-bottom: 2rem;
 }
 
 @media screen and (max-width: 960px) {

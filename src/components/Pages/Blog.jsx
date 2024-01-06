@@ -1,5 +1,6 @@
 import React from "react";
 import GrillaPost from "../GrillaPost";
+import GrillaRockstar from "../GrillaRockstar";
 
 export const Blog = () => {
   return (
@@ -11,7 +12,10 @@ export const Blog = () => {
         </p>
       </header>
       <GrillaPost/>
-      
+      <section id="rockstar-games">
+        <h2>Explore more games</h2>
+        <GrillaRockstar/>
+      </section>
     </div>
   );
 };
