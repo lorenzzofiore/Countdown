@@ -1,5 +1,6 @@
 import React from "react";
 import GrillaGames from "../GrillaGames";
+import SpotifyPlaylist from "../SpotifyPlaylist"
 
 export const History = () => {
   return (
@@ -7,6 +8,7 @@ export const History = () => {
       <h1>History of Grand Theft Auto</h1>
       <p>All the Grand Theft Auto Games</p>
       <GrillaGames/>
+      <SpotifyPlaylist/>
     </div>
   );
 };
