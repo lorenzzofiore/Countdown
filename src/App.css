@@ -155,5 +155,12 @@ h1 {
     font-size: 1.6rem;
     font-weight: 600;
   }
+  #page-blog .title-page {
+    padding-left: 1rem;
+  }
+  #rockstar-games {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
 }
 

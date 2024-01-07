@@ -44,7 +44,11 @@
     .grilla-rockstar {
         flex-wrap: wrap;
     }
+    .grid-post {
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
     .grilla-rockstar img {
-        min-width: 300px;
+        min-width: 210px;
     }
 }
