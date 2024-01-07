@@ -1,11 +1,11 @@
 /* eslint-disable jsx-a11y/iframe-has-title */
 import React from 'react';
 
-const SpotifyPlaylistEmbed = () => {
+const SpotifyPlaylistEmbed4 = () => {
   return (
     <iframe
       style={{ borderRadius: '12px' }}
-      src="https://open.spotify.com/embed/playlist/2kTpP9WLwc3HjI90coGIOe?utm_source=generator"
+      src="https://open.spotify.com/embed/playlist/1CwOGZ5DpAm9QEodlEjEZd?utm_source=generator"
       width="80%"
       height="152"
       frameBorder="0"
@@ -16,4 +16,4 @@ const SpotifyPlaylistEmbed = () => {
   );
 };
 
-export default SpotifyPlaylistEmbed;
+export default SpotifyPlaylistEmbed4;

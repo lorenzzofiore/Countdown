@@ -1,4 +1,19 @@
 .title-playlist {
     margin-top: 3rem;
-    margin-bottom: 2rem;
+    margin-bottom: 1rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+.title-playlist a {
+    color:#1db954;
+    transition: all ease 400ms;
+}
+.title-playlist a:hover {
+    background-color:#1db954;
+    color: #fff;
+    padding: 8px 20px;
+    border-radius: 50px;
+}
+iframe {
+    margin-top: 1rem;
 }

@@ -25,6 +25,10 @@ h1 {
   margin-top: 5vh;
 }
 
+.history {
+  padding-bottom: 5rem;
+}
+
 .history h1 {
   margin-top: -2rem;
 }
