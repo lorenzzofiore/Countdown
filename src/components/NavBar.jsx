@@ -11,7 +11,7 @@ function NavBar() {
     <header id="navbar-main">
       <nav className="navbar">
         <div className="nav-container">
-          <NavLink exact to="https://lorenzzofiore.vercel.app/" className="nav-logo" target="_blank">
+          <NavLink exact to="https://lorenzofiore.me/" className="nav-logo" target="_blank">
             <img src="logo-white.svg" alt="" />
           </NavLink>
 
